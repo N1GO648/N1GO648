@@ -22,7 +22,7 @@ Instead of writing every line of code by hand, I build multi-agent architectures
 
 * **Languages & Frameworks:** Luau, JavaScript/TypeScript, Next.js, React
 * **Infrastructure & Deployment:** Vercel, Roblox Open Cloud
-* **Agentic AI Stack:** Claude (Architectural Planning), Codex (Implementation), Custom State-Synchronization Protocols
+* **Agentic AI Stack:** GPT,Claude (Architectural Planning), Claude Code, Codex (Implementation), Custom State-Synchronization Protocols
 * **Core Competencies:** Multi-Agent Orchestration, Monetization Architecture, Concurrent System Design, Prompt Engineering
 
 ---
