@@ -14,7 +14,7 @@ Instead of writing every line of code by hand, I build multi-agent architectures
 
 * 🚀 **Building:** High-engagement live-ops titles at Solocked Studios.
 * 🧠 **Exploring:** Human-in-the-Loop (HITL) AI orchestration, zero-CAC marketing, and behavioral economics.
-* ⚡ **Fact:** Bootstrapped a recent game launch to over 104k in premium virtual currency volume within the first month and attracted a $50,000 USD acquisition offer.
+* ⚡ **Fact:** Bootstrapped a recent game launch to over 104k in premium virtual currency volume, 300,000 visits within the first month and attracted multiple acquisition offers, going up to the mid 5 digit ranges. 
 
 ---
 
