@@ -45,12 +45,23 @@ As Technical Co-Founder, I architected the core gameplay loops, monetization sys
 * **Air Conditioning Servicing Mobile App UI/UX**
   * Designed the complete user flow, logic, and interface architecture for a mobile application targeting HVAC service management.
   * *Tech/Skills:* UI/UX Design, Flowcharting, Requirements Gathering
-* **[Project Name 2]**
-  * *Brief 1-2 sentence description of the project, your role, and the problem it solved.*
-  * *Tech/Skills:* [Technology 1], [Technology 2]
-* **[Project Name 3]**
-  * *Brief 1-2 sentence description of the project, your role, and the problem it solved.*
-  * *Tech/Skills:* [Technology 1], [Technology 2]
+  * https://ay2526-tp-j.coding36.net/login
+
+* **Real-Time MQTT Telemetry Dashboard**
+  * Architected and deployed the frontend dashboard for an MQTT-based system, enabling real-time data visualization and stream processing.
+  * *Focus:* Frontend Engineering, Real-Time Data Streaming, UI/UX
+
+* **GES Monitoring System Database Architecture**
+  * Configured and optimized the database infrastructure for a Global Environmental System (GES) monitoring platform, ensuring reliable data persistence and retrieval.
+  * *Focus:* Backend Engineering, Database Design, Data Integration
+
+* **IoT Edge Computing: WisGate & Arduino**
+  * Configured WisGate LoRaWAN gateways and developed C++ firmware sketches for Arduino Uno microcontrollers to enable edge-device sensor data transmission.
+  * *Focus:* Hardware/Software Interfacing, IoT Infrastructure, Low-Level C++
+
+* **Operating Systems Fundamentals**
+  * Implemented core OS-level mechanics and systems architecture concepts.
+  * *Focus:* Systems Programming, Resource Management, Low-Level Compute
 
 ---
 
