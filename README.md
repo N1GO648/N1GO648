@@ -67,7 +67,7 @@ As Technical Co-Founder, I architected the core gameplay loops, monetization sys
 
 <div align="center">
   <i>Always open to discussing agentic workflows, game architecture, and big tech opportunities.</i><br>
-  <b><a href="mailto:your.email@example.com">Get in touch</a></b>
+  <b><a href="nicocaleblim@gmail.com">Get in touch</a></b>
 </div>
 <!--
 **N1GO648/N1GO648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
